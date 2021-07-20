@@ -1,0 +1,39 @@
+.btn {
+  background-color: #ff2178;
+  color: white;
+}
+.price {
+  color: #ff2178;
+}
+.carousel-inner {
+  background-color: #fceae8;
+}
+
+.watch {
+  background-color: #ffa500;
+  color: white;
+  /* width: 33%;
+  height: 140px; */
+}
+.bag {
+  background-color: #da70d6;
+  color: white;
+  /* width: 33%;
+  height: 140px; */
+}
+
+.shoes {
+  background-color: #0000ff;
+  color: white;
+  /* width: 33%;
+  height: 140px; */
+}
+/* main style end  */
+.submit {
+  background-color: #fceae8;
+}
+
+li a:hover {
+  text-decoration: 3px underline;
+  text-decoration-color: #ff2178;
+}
